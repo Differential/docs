@@ -17,20 +17,23 @@ In 2013, Differential was founded by Tim and Ry as the company we plan to retire
 ## Guiding Principles
 
 ### Ownership creates alignment.
-O1 We want equity in every project we work on.
-O2 We transparently share equity in the company.
+
+* O1 We want equity in every project we work on.
+* O2 We transparently share equity in the company.
 
 ### Money matters.
-M1 We want our projects to generate revenue very early.
-M2 Serious startups raise angel and venture financing.
-M3 Startup workers do not need to suffer financially.
-M4 Building our cash reserve creates freedom.
+
+* M1 We want our projects to generate revenue very early.
+* M2 Serious startups raise angel and venture financing.
+* M3 Startup workers do not need to suffer financially.
+* M4 Building our cash reserve creates freedom.
 
 ### Flat hierarchy.
-F1 Nobody is told what to do; you don't have a boss. You choose what to work on.
-F2 Treating talented people like children obliterates their value.
-F3 You have the power to green-light projects and to ship products.
-F4 Flatness eliminates barriers between your work and customers enjoying your work.
+
+* F1 Nobody is told what to do; you don't have a boss. You choose what to work on.
+* F2 Treating talented people like children obliterates their value.
+* F3 You have the power to green-light projects and to ship products.
+* F4 Flatness eliminates barriers between your work and customers enjoying your work.
 
 ## What should you work on?
 
