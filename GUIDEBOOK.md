@@ -97,19 +97,19 @@ Our peers are the best judges of our value as individuals. Our flat structure el
 
 Each person is asked to rank everyone other than themselves. The categories we chose explicitly state “This is what is valuable.” The categories offer a broad range of ways you can contribute value to the company.
 
-## Skill Level/Technical Ability
+### Skill Level/Technical Ability
 
 How difficult and valuable are the kinds of problems you solve? How important/critical of a problem can you be given? Are you uniquely capable (in the company? industry?) of solving a certain class of problem?
 
-## Productivity/Output
+### Productivity/Output
 
 How much shippable (not necessarily shipped to outside customers), valuable, finished work did you get done?
 
-## Group Contribution 
+### Group Contribution 
 
 How much do you contribute to overall process, hiring, integrating people into the team, improving workflow, amplifying your colleagues, or writing tools used by others? Generally, being a group contributor means that you are making a tradeoff versus an individual contribution.
 
-## Product Contribution
+### Product Contribution
 
 How much do you contribute at a larger scope than your core skill? How much did you influence correct prioritization of work or resource trade-offs by others? Are you good customer development? Customer support? Are you good at finding and killing bugs after a launch?
 
