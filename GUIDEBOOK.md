@@ -1,32 +1,31 @@
 # DIFFERENTIAL GUIDEBOOK
 
-*Dedicated to the families of our employees.
-Thank you for supporting our efforts to create
-an incredible company.*
+*Dedicated to the families of our team.
+Thank you for supporting our efforts to create an incredible company.*
 
-## Introduction
+## How we got started
 
 In the fall of 2012, Tim and Ry asked the question "What if you took the 10 ideas and 30 people in a typical accelerator 'class' and combined them into one organization?" They believed it would reduce waste. Through natural selection, some ideas would die quick deaths, and the best few would attract the most talent. And investors would see a better return.
 
 The vision for Differential is to test this theory. 
 
-We work in ways that will be a lot different than what you may be used to. You have no boss. You choose what to work on. Your peers control your compensation.
+In 2013, Differential was founded by Tim, Ry, and Gerard as the company we plan to retire from; a work environment we always dreamed of for ourselves, knowing that if we could make it awesome for us, it would also attract great talent.
 
-In 2013, Differential was founded by Tim and Ry as the company we plan to retire from; a work environment we always dreamed of for ourselves, knowing that if we could make it awesome for us, it would also attract great talent.
+We work differently than what you may be used to. You have no boss. You choose what to work on. Your peers control your compensation.
 
 ## Guiding Principles
 
 ### Ownership creates alignment.
 
 * O1 We want equity in every project we work on.
-* O2 We transparently share equity in the company.
+* O2 We transparently share company equity with the team.
 
 ### Money matters.
 
-* M1 We want our projects to generate revenue very early.
+* M1 We focus on projects that can generate revenue early.
 * M2 Serious startups raise angel and venture financing.
 * M3 Startup workers do not need to suffer financially.
-* M4 Building our cash reserve creates freedom.
+* M4 Building a company cash reserve creates freedom.
 
 ### Flat hierarchy.
 
@@ -37,7 +36,8 @@ In 2013, Differential was founded by Tim and Ry as the company we plan to retire
 
 ## What should you work on?
 
-Deciding how to spend your time is very challenging. You'll find yourself constantly looking around for the most valuable work you could be doing, and it's not always obvious what that is.
+Deciding how to spend your time is very challenging. If you're
+ambitious, you'll find yourself constantly looking around for the most valuable work you could be doing, and it's not always obvious what that is.
 
 How much time should you spend in your core area of expertise? During a project, how far outside of that core area should you allow yourself to drift?
 
@@ -47,15 +47,20 @@ People are going to pull you towards their pet projects.
 
 There may be times where you wistfully long for the days where you had just one person telling you what they think you should do, rather than everybody.
 
+Some questions to guide you towards good work:
+
 * What can I do to create the most benefit to our customers?
 * Are we not doing something that we should be doing?
 * What’s interesting?
 * What’s rewarding?
 * What leverages my strengths?
 
-Our lack of a traditional structure comes with an important responsibility. It’s up to all of us to spend effort focusing on what we think the long-term goals of the company should be.
+Our lack of a traditional structure comes with an important
+responsibility. It’s up to all of us to spend effort focusing on the
+long-term goals of the company.
 
-You will feel like you’re failing because for every one task you decide to work on, there will be dozens that aren’t getting your attention. Nobody expects you to devote time to every opportunity that comes your way.
+For every task you decide to work on, there will be dozens that aren’t
+getting your attention. You've got to make judgement calls. Nobody expects you to devote time to every opportunity that comes your way.
 
 ## How does the company decide what to work on?
 
@@ -65,11 +70,17 @@ We believe in each other to make these decisions, and this faith has proven to b
 
 ## Temporary hierarchy emerges, and is OK
 
-Temporary internal structure will naturally emerge in projects, to suit the group’s needs. People can and often do have clarity around the definition of their “job” on any given day. They, along with their peers, effectively create a job description that fits the group’s goals. That description changes as requirements change, but the temporary structure provides a shared understanding of what to expect from each other. If someone moves to a different group or a team shifts its priorities, each person can take on a completely different role according to the new requirements.
+Temporary internal structure will naturally emerge in projects, to suit the group’s needs. People can and often do have clarity around the definition of their “job” on any given day.
+
+They, along with their peers, effectively create a job description that fits the group’s goals. That description changes as requirements change, but the temporary structure provides a shared understanding of what to expect from each other.
+
+If someone moves on, or a team shifts its priorities, each person can take on a completely different role according to the new requirements.
 
 ## What if I mess up?
 
-We don't fire people for making mistakes. It wouldn’t make sense for us to operate that way. Providing the freedom to fail is important. We couldn’t expect so much of individuals, if we penalized people for errors.
+To err is human. You won't get fired for making mistakes. The freedom to
+fail is important. We couldn’t expect so much of you, if we penalized
+you for errors.
 
 Even expensive mistakes, or ones which result in a very public failure, are looked at as opportunities to learn. We can always repair the mistake, or make up for it.
 
@@ -113,9 +124,11 @@ How much do you contribute to overall process, hiring, integrating people into t
 
 How much do you contribute at a larger scope than your core skill? How much did you influence correct prioritization of work or resource trade-offs by others? Are you good customer development? Customer support? Are you good at finding and killing bugs after a launch?
 
-## Be, and hire T-shaped people
+## Be, and hire V-shaped people
 
-Successful, “T-shaped” people are both highly skilled at a broad set of things, and deep experts within a more narrow discipline. We highly value “T-shaped” people.
+Successful, “V-shaped” people are both highly skilled at a broad set of
+things, and deep experts within a more narrow discipline. We highly
+value “V-shaped” people.
 
 ## Hiring
 
@@ -137,7 +150,7 @@ Chronically overworking indicates a fundamental failure in planning or communica
 
 ## Workplace
 
-Working around your peers is highly encouraged as it allows for better communication and greater collaboration, but it’s not required on a daily basis. Nor are you assigned a daily time to show up and leave (9 to 5). Rather what’s important is that you accomplish great work.
+Working around your peers is highly encouraged as it allows for better communication and greater collaboration, but it’s not required on a daily basis. Nor are you assigned a daily time to show up and leave. Rather what’s important is that you accomplish great work.
 
 ## Vacations
 
@@ -151,4 +164,5 @@ Are some ideals stated here more fully realized than others? What should we do a
 
 What are you going to do about it? :)
 
-At the end of the day, the user experiences that you decide to create for customers will define Differential. We can’t wait to see where you take us.
+At the end of the day, the user experiences that you decide to create
+for customers will define us. We can’t wait to see where you take us.
