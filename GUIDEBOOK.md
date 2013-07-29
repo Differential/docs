@@ -3,6 +3,8 @@
 *Dedicated to the families of our team.
 Thank you for supporting our efforts to create an incredible company.*
 
+*Special thanks to Valve, and their [amazing new employee handbook](http://www.valvesoftware.com/company/Valve_Handbook_LowRes.pdf) which we started with as a base document, then modified. Please don't sue us, Gabe!*
+
 ## How we got started
 
 In the fall of 2012, Tim and Ry asked the question "What if you took the 10 ideas and 30 people in a typical accelerator 'class' and combined them into one organization?" They believed it would reduce waste. Through natural selection, some ideas would die quick deaths, and the best few would attract the most talent. And investors would see a better return.
