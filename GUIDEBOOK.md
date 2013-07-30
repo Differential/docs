@@ -9,9 +9,14 @@ Thank you for supporting our efforts to create an incredible company.*
 
 In the fall of 2012, Tim and Ry asked the question "What if you took the 10 ideas and 30 people in a typical accelerator 'class' and combined them into one organization?" They believed it would reduce waste. Through natural selection, some ideas would die quick deaths, and the best few would attract the most talent. And investors would see a better return.
 
-The vision for Differential is to test this theory. 
+The vision for Differential has evolved some since that original question, but testing this theory is part of that vision. 
 
-In 2013, Differential was founded by Tim, Ry, and Gerard as the company we plan to retire from; a work environment we always dreamed of for ourselves, knowing that if we could make it awesome for us, it would also attract great talent.
+In 2013, Differential was founded by Tim, Ry, and Gerard as the company we plan to retire from. Our initial mission was to:
+1. Create a work environment we always dreamed of for ourselves, knowing that if we could make it awesome for us, it would also attract great talent.
+2. Support entrepreneurs and the Cincinnati startup ecosystem. 
+3. Create long-term value for our investors, our team, and our clients through aligning our interests with our clients by taking some of our compensation in equity.
+4. Help unlock talented technical folks from their safe jobs by creating opportunities that are less risky than the normal startup proposition.
+5. Build great products that are solving real problems.
 
 We work differently than what you may be used to. You have no boss. You choose what to work on. Your peers control your compensation.
 
@@ -19,14 +24,14 @@ We work differently than what you may be used to. You have no boss. You choose w
 
 ### Ownership creates alignment.
 
-* O1 We want equity in every project we work on.
+* O1 We want equity in projects we work on.
 * O2 We transparently share company equity with the team.
 
 ### Money matters.
 
 * M1 We focus on projects that can generate revenue early.
-* M2 Serious startups raise angel and venture financing.
-* M3 Startup workers do not need to suffer financially.
+* M2 Serious startups raise angel and venture financing when necessary.
+* M3 Startup workers do not need to suffer financially; we believe it makes sense to take care of employees when possible, so they can focus on what matters.
 * M4 Building a company cash reserve creates freedom.
 
 ### Flat hierarchy.
@@ -35,6 +40,7 @@ We work differently than what you may be used to. You have no boss. You choose w
 * F2 Treating talented people like children obliterates their value.
 * F3 You have the power to green-light projects and to ship products.
 * F4 Flatness eliminates barriers between your work and customers enjoying your work.
+* F5 Because everyone is a partner in the business, we trust them to make the right decisions; sometimes you'll work on projects because it's good for the long-term stability of YOUR business.
 
 ## What should you work on?
 
@@ -51,7 +57,7 @@ There may be times where you wistfully long for the days where you had just one 
 
 Some questions to guide you towards good work:
 
-* What can I do to create the most benefit to our customers?
+* What can I do to create the most benefit to our customers? Our business?
 * Are we not doing something that we should be doing?
 * What’s interesting?
 * What’s rewarding?
