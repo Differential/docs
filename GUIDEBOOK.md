@@ -12,11 +12,11 @@ In the fall of 2012, Tim and Ry asked the question "What if you took the 10 idea
 The vision for Differential has evolved some since that original question, but testing this theory is part of that vision. 
 
 In 2013, Differential was founded by Tim, Ry, and Gerard as the company we plan to retire from. Our initial mission was to:
-1. Create a work environment we always dreamed of for ourselves, knowing that if we could make it awesome for us, it would also attract great talent.
-2. Support entrepreneurs and the Cincinnati startup ecosystem. 
-3. Create long-term value for our investors, our team, and our clients through aligning our interests with our clients by taking some of our compensation in equity.
-4. Help unlock talented technical folks from their safe jobs by creating opportunities that are less risky than the normal startup proposition.
-5. Build great products that are solving real problems.
+* Create a work environment we always dreamed of for ourselves, knowing that if we could make it awesome for us, it would also attract great talent.
+* Support entrepreneurs and the Cincinnati startup ecosystem. 
+* Create long-term value for our investors, our team, and our clients through aligning our interests with our clients by taking some of our compensation in equity.
+* Help unlock talented technical folks from their safe jobs by creating opportunities that are less risky than the normal startup proposition.
+* Build great products that are solving real problems.
 
 We work differently than what you may be used to. You have no boss. You choose what to work on. Your peers control your compensation.
 
@@ -98,6 +98,8 @@ There are some bad ways to fail. Repeating the same mistake over and over is one
 
 Our collective ability to meet challenges, take advantage of opportunity, and respond to threats is far greater when the responsibility for doing so is distributed as widely as possible. Namely, to every individual at the company.
 
+## Crazy transparency
+
 We have what could be called an "uncomfortable level of transparency" — we share information as if everyone is a top manager. We encourage you to share everything that the company is in the legal position to share.
 
 ## Performance and compensation
@@ -149,12 +151,13 @@ Here are some questions we always ask ourselves when evaluating candidates:
 * What if this person went to work for our competition?
 * Does this person seem highly collaborative?
 * Is this person stronger than me?
+* Do I look forward to grabbing a beer with this person?
 
 When unchecked, people have a tendency to hire others who are lower-powered than themselves. We should hire people more capable than ourselves, not less.
 
 ## Work-life balance
 
-Chronically overworking indicates a fundamental failure in planning or communication. It makes you look bad. It’s a sign that something needs to be corrected. Don't look around and wonder why people aren’t in “crunch mode.” We work hard at hiring great people; we encourage healthy work-life balance.
+Chronically overworking indicates a fundamental failure in planning or communication. It makes you look bad. It’s a sign that something needs to be corrected. Don't look around and wonder why people aren’t in “crunch mode.” We work hard at hiring great people; we encourage healthy work-life balance. We believe that family is number 1, and should be incorporated into your work life, when possible.
 
 ## Workplace
 
@@ -166,9 +169,11 @@ Just like we don’t have a 9-5 policy, we don’t have a vacation policy. You�
 
 ## The system is not perfect
 
-Sometimes, these philosophy and methods don’t match perfectly with how things are going day-to-day. Even when problems persist for a while, we will root them out.
+Sometimes our philosophy and methods don’t match perfectly with how things are going day-to-day. Even when problems persist for a while, we will root them out.
 
-Are some ideals stated here more fully realized than others? What should we do about that? Are the variations a good or bad thing, and a side-effect of experimentation? Or are we drifting towards away from the ideal culture?
+We realize that as we continue to grow and scale the team, some of this will be messy. That's OK. We decided on day #1 that the benefits of continuing to be intentional about our culture and philosophy far outweigh the ongoing time investment (and hard conversations) that will be required.
+
+Are some ideals stated here more fully realized than others? What should we do about that? Are the variations a good or bad thing, and a side-effect of experimentation? Or are we drifting towards/away from the ideal culture?
 
 What are you going to do about it? :)
 
