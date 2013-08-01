@@ -5,8 +5,7 @@
 ### You might have to wait a little
 
 We're pretty awesome at what we do, so it might take us some time to
-get your work into our schedule. Brad manages that schedule, and we
-want to be extremely transparent with you. So yeah, it sucks to have to
+get your work into our schedule. We keep a very close eye on that schedule and strive to be extremely transparent with you. So yeah, it sucks to have to
 wait, but it'll be worth it :)
 
 ### We'll iterate with working software
@@ -16,7 +15,7 @@ uncertainty. Some people try to mitigate that by doing a lot of
 planning, writing a big spec document, talking, talking, talking...
 Billing, billing, billing. We take a different approach.
 
-We'll spend a tiny amount of time building a queue of user stories, and
+We'll spend a tiny amount of time up-front building a queue of user stories (tasks based on the overall experience), and
 choosing a batch to start on that if we delivered working software,
 users could receive value by using it.
 
@@ -51,8 +50,7 @@ Metrics](http://www.youtube.com/watch?v=irjgfW0BIrw).
 * Revenue - how much money are you generating (this will be close to
   zero for some time, unfortunately.)
 
-So you launch. Some number in the progression above is close enough to
-zero to screw up the whole funnel. Now we iterate to fix this.
+So you launch. More likely than not, most of the numbers above are zero (or close to zero). Now we iterate to fix this.
 
 ### Concierge your first paid users
 
