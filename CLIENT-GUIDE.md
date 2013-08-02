@@ -8,6 +8,10 @@ We're pretty awesome at what we do, so it might take us some time to
 get your work into our schedule. We keep a very close eye on that schedule and strive to be extremely transparent with you. So yeah, it sucks to have to
 wait, but it'll be worth it :)
 
+### Who will do the work
+
+There will be a single partner who is designated as your primary point of contact. The partners of Differential (employee-owners) drive all strategy and vision. To actually execute the work, we do a lot of it locally, but depending on work volume we also tap into development resources elsewhere in the U.S. and internationally. Rest assured that all the big decisions are made by the partners in Cincinnati, they will drive the vision for each user story, and we stand behind the work of our remote contributors.
+
 ### We'll iterate with working software
 
 Building a MVP for a new product is a project with an "abundance" of
