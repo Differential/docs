@@ -118,13 +118,13 @@ Our peers are the best judges of our value as individuals. Our flat structure el
 
 Each person is asked to rank everyone other than themselves. The categories we chose explicitly state “This is what is valuable.” The categories offer a broad range of ways you can contribute value to the company.
 
-* *Skill Level/Technical Ability* — How difficult and valuable are the kinds of problems you solve? How important/critical of a problem can you be given? Are you uniquely capable (in the company? industry?) of solving a certain class of problem?
+* *Skill Level/Technical Ability* — How difficult and valuable are the kinds of problems you solve? How important/critical of a problem can you be given? Are you uniquely capable (in the company? industry? city?) of solving a certain class of problem?
 
-* *Productivity/Output* — How much shippable (not necessarily shipped to outside customers), valuable, finished work did you get done?
+* *Productivity/Output* — How much valuable, finished work did you get done? Are you hitting goals/targets?
 
-* *Group Contribution* — How much do you contribute to overall process, hiring, integrating people into the team, improving workflow, amplifying your colleagues, or writing tools used by others? Generally, being a group contributor means that you are making a tradeoff versus an individual contribution.
+* *Group Contribution* — How much are you helping your teammates grow? Do you make people better? Do you contribute to hiring, integrating people into the team, improving workflow, or creating tools used by others?
 
-* *Product Contribution* — How much do you contribute at a larger scope than your core skill? How much did you influence correct prioritization of work or resource trade-offs by others? Are you good customer development? Customer support? Are you good at finding and killing bugs after a launch?
+* *Non-Core Contribution* — How much do you contribute at a larger scope than your core skill? How much did you influence correct prioritization of work or resource trade-offs by others? Are you good customer development? Writing/blogging? Customer support? Product/bug testing?
 
 ## Be, and hire V-shaped people
 
