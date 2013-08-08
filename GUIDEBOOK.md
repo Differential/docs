@@ -126,6 +126,27 @@ Each person is asked to rank everyone other than themselves. The categories we c
 
 * *Non-Core Contribution* — How much do you contribute at a larger scope than your core skill? How much did you influence correct prioritization of work or resource trade-offs by others? Are you good customer development? Writing/blogging? Customer support? Product/bug testing?
 
+#### Process [DRAFT]
+
+Process we followed:
+
+1. Part I
+ * Rank everyone except yourself, in each of the 4 categories--since the last ranking. 
+ * Total each persons score in each category
+ * Total the scores across all categories
+ * This provides a visual representation of where everyone stands, today. 
+
+2. Part II
+ * Provide a financial snapshot/summary of where the company stands, today. 
+ * Have a conversation about some ranges of bonuses that the company might be able to pay out. 
+ * Have the team individually write a number down of what they think we should pay in bonuses
+ * Take the median, not average, of that. 
+
+3. Part III
+ * Based on that $ we've decided to dole out, individually dole out that money to your peers (but not yourself)
+ * Take the .8 x the median amount for each person
+ * This should total the desired total bonus.
+
 ## Be, and hire V-shaped people
 
 Successful, “V-shaped” people are both highly skilled at a broad set of
