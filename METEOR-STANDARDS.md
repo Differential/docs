@@ -13,14 +13,14 @@
 * Client should have folders: compatibility, helpers, stylesheets, and views
 * Views should be broken out by a folder matching a path in the Iron Router mappings
 
-### Router.coffee
+##### Router.coffee
 ````
   @route 'vlogger',
     path: '/vloggers/:_id'
 
 ````
 
-### Folder structure
+##### Folder structure
 ````
 client
      └── views
