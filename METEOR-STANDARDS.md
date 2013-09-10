@@ -7,16 +7,32 @@
 * Never leave trailing whitespace.
 * Use spaces around operators, after commas, colons and semicolons, around ````{```` and before ````}````.
 
+## Preferences
+
+* All js will be written using coffeescript
+* We prefer using certain packages with Meteor:
+** Iron Router
+** Accounts Entry
+** Canonical
+** Autoform
+** Minimongoid
+** Spiderable
+** Phantomjs
+
 ## File Structure
 
 * Break everything into client, server, or collection folders
 * Client should have folders: compatibility, helpers, stylesheets, and views
+* View folders will hold page specific templates, javascript, and stylesheets
 * Views should be broken out by a folder matching a path in the Iron Router mappings
 
 ##### Router.coffee
 ````
+  @route 'vloggers',
+    path: '/vloggers'
+
   @route 'vlogger',
-    path: '/vloggers/:_id'
+    path: '/vlogger/:_id'
 
 ````
 
@@ -24,7 +40,11 @@
 ````
 client
      └── views
-             └── vloggers
-                        └── vlogger.html
+             ├── vloggers
+             |          ├── vloggers.html
+             |          ├── vloggers.coffee
+             |          └── vloggers.less
+             └── vlogger
+                       └── vlogger.html
 
 ````
