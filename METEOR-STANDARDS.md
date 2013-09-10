@@ -27,6 +27,7 @@
 * Break everything into client, server, or collection folders
 * Client should have folders: compatibility, helpers, stylesheets, and views
 * View folders will hold page specific templates, javascript, and stylesheets
+* Reusable partial templates should start their file and template name with an underscore (````_````)
 * Views should be broken out by a folder matching a path in the Iron Router mappings
 
 ##### Router.coffee
@@ -50,4 +51,13 @@ client
              └── vlogger
                        └── vlogger.html
 
+````
+
+##### Shared folder structure
+````
+client
+     └── views
+             └──shared
+                     ├── _video.html
+                     └── _video.coffee
 ````
