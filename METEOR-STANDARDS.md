@@ -11,13 +11,15 @@
 
 * All js will be written using coffeescript
 * We prefer using certain packages with Meteor:
-** Iron Router
-** Accounts Entry
-** Canonical
-** Autoform
-** Minimongoid
-** Spiderable
-** Phantomjs
+````
+* Iron Router
+* Accounts Entry
+* Canonical
+* Autoform
+* Minimongoid
+* Spiderable
+* Phantomjs
+````
 
 ## File Structure
 
