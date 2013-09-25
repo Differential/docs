@@ -64,7 +64,7 @@ you for, it makes sense to recruit a team.
 
 So we set everything up so it's easy for you to bring your new team
 members into the project, and eventually removing us from those services
-without having to do a incur a painful services switchover process.
+without having to incur a painful services switchover process.
 
 ## What happens after the MVP launches?
 
