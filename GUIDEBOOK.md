@@ -72,9 +72,17 @@ getting your attention. You've got to make judgement calls. Nobody expects you t
 
 ## How does the company decide what to work on?
 
-The same way we make other decisions: by waiting for someone to decide that it’s the right thing to do, and then letting them recruit other people to work on it with them.
+The same way we make other decisions: by waiting for someone to decide
+that it’s the right thing to do, and then letting them recruit other
+people to work on it with them. Or working on it solo.
 
-We believe in each other to make these decisions, and this faith has proven to be well-founded over and over again. At the same time, we’ve found it important to not operate by using assumptions and unproven theories.
+We believe in each other to make these decisions, and this faith has proven to be well-founded over and over again.
+
+A few guiding principles:
+
+* Will you enjoy the work?
+* Does positively impact our company?
+* Does it positive impact our startup community?
 
 ## Temporary hierarchy emerges, and is OK
 
