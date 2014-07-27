@@ -12,20 +12,28 @@ In the fall of 2012, Tim and Ry asked the question "What if you took the 10 idea
 The vision for Differential has evolved some since that original question, but testing this theory is part of that vision. 
 
 In 2013, Differential was founded by Tim, Ry, and Gerard as the company we plan to retire from. Our initial mission was to:
+
 * Create a work environment we always dreamed of for ourselves, knowing that if we could make it awesome for us, it would also attract great talent.
 * Support entrepreneurs and the Cincinnati startup ecosystem. 
 * Create long-term value for our investors, our team, and our clients through aligning our interests with our clients by taking some of our compensation in equity.
 * Help unlock talented technical folks from their safe jobs by creating opportunities that are less risky than the normal startup proposition.
 * Build great products that are solving real problems.
 
-We work differently than what you may be used to. You have no boss. You choose what to work on. Your peers control your compensation.
-
 ## Guiding Principles
+
+### People are everything.
+
+* P1 Treating talented people like children obliterates their value.
+* P2 We want to foster a culture that values entrepreneurship, openness and tight-knit community.
+* P3 We see great potential in every person, however it takes everyone working together to get the best out of each of us.
+* P4 It's critical that our most senior and most well-payed people have a fierce commitment to excel in the pursuit of unselfish goals.
+* P5 We value curiously because it leads to interesting explorations and more broad, more astute insights about our business.
+* P6 Flat heirarchy eliminates barriers between your work and customers enjoying your work.
 
 ### Ownership creates alignment.
 
 * O1 We want equity in projects we work on.
-* O2 We transparently share company equity with the team.
+* O2 We believe that everyone should aspire to having real equity in the company they work for.
 
 ### Money matters.
 
@@ -34,55 +42,16 @@ We work differently than what you may be used to. You have no boss. You choose w
 * M3 Startup workers do not need to suffer financially; we believe it makes sense to take care of employees when possible, so they can focus on what matters.
 * M4 Building a company cash reserve creates freedom.
 
-### Flat hierarchy.
-
-* F1 Nobody is told what to do; you don't have a boss. You choose what to work on.
-* F2 Treating talented people like children obliterates their value.
-* F3 You have the power to green-light projects and to ship products.
-* F4 Flatness eliminates barriers between your work and customers enjoying your work.
-* F5 Because everyone is a partner in the business, we trust them to make the right decisions; sometimes you'll work on projects because it's good for the long-term stability of YOUR business.
-
-## What should you work on?
-
-Deciding how to spend your time is very challenging. If you're
-ambitious, you'll find yourself constantly looking around for the most valuable work you could be doing, and it's not always obvious what that is.
-
-How much time should you spend in your core area of expertise? During a project, how far outside of that core area should you allow yourself to drift?
-
-If you're technical, do you want to work on improving your non-technical skills? And vice-versa?
-
-People are going to pull you towards their pet projects.
-
-There may be times where you wistfully long for the days where you had just one person telling you what they think you should do, rather than everybody.
-
-Some questions to guide you towards good work:
-
-* What can I do to create the most benefit to our customers? Our business?
-* Are we not doing something that we should be doing?
-* What’s interesting?
-* What’s rewarding?
-* What leverages my strengths?
-
-Our lack of a traditional structure comes with an important
-responsibility. It’s up to all of us to spend effort focusing on the
-long-term goals of the company.
-
-For every task you decide to work on, there will be dozens that aren’t
-getting your attention. You've got to make judgement calls. Nobody expects you to devote time to every opportunity that comes your way.
-
 ## How does the company decide what to work on?
 
-The same way we make other decisions: by waiting for someone to decide
-that it’s the right thing to do, and then letting them recruit other
-people to work on it with them. Or working on it solo.
+The same way we make other decisions: by waiting for someone to decide that it’s the right thing to do, and then letting them recruit other people to work on it with them. Or working on it solo.
 
 We believe in each other to make these decisions, and this faith has proven to be well-founded over and over again.
 
 A few guiding principles:
 
 * Will you enjoy the work?
-* Does positively impact our company?
-* Does it positive impact our startup community?
+* Does positively impact our company and community?
 
 ## Temporary hierarchy emerges, and is OK
 
