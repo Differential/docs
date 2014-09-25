@@ -1,4 +1,4 @@
-# DIFFERENTIAL DEV SHOP CLIENT GUIDE
+# DIFFERENTIAL CLIENT GUIDE
 
 ## What happens after I say "yes" to Differential?
 
@@ -24,13 +24,13 @@ choosing a batch to start on that if we delivered working software,
 users could receive value by using it.
 
 Then we will get working software in you and your users hands ASAP, and
-deploy updates continuously.
+deploy updates continuously. 
 
 ### How you stay involved
 
-We LOVE clients who are super involved, not just up front, but throughout a project. In order to facilitate this,
+We LOVE clients who are super involved, not just up front, but throughout a project. In order to facilitate this, 
 we use project tracking software (often times Trello), which allows our founders to stay very involved without bogging
-down our developers in email.
+down our developers in email. 
 
 Here's how we suggest you staying involved (and what we've seen work best):
 
@@ -39,18 +39,18 @@ Here's how we suggest you staying involved (and what we've seen work best):
   * it's easier to consider them against other to-dos
   * it keeps the team focused on building (not emailing back & forth about new feature ideas)
 
-   Definitely OK to just bounce thoughts/ideas off of us if you're not sure, but we suggest you hold those for our regular
+   Definitely OK to just bounce thoughts/ideas off of us if you're not sure, but we suggest you hold those for our regular 
 calls, when possible.
 
-2. Keep in mind that what might seem like "small changes" can end up taking hours. For example, something we see with
-many founders we work with is the tendency to want to continually tweak the homepage (based on gut feel, not user
-feedback), even before the meat & potatoes are built.
+2. Keep in mind that what might seem like "small changes" can end up taking hours. For example, something we see with 
+many founders we work with is the tendency to want to continually tweak the homepage (based on gut feel, not user 
+feedback), even before the meat & potatoes are built. 
 
-   In general, we recommend you keep the 80/20 rule in mind. It's pretty rare to nail things out of the gate, anyhow,
-and it's also hard to tell how much additional impact many early changes might have in helping us validate the concept.
+   In general, we recommend you keep the 80/20 rule in mind. It's pretty rare to nail things out of the gate, anyhow, 
+and it's also hard to tell how much additional impact many early changes might have in helping us validate the concept. 
 Err on the side of getting things pretty good & letting users dictate how we improve from there.
 
-3. When you do have strong opinions about stuff (which is OK, we realize some things are worth extra time/effort), try to
+3. When you do have strong opinions about stuff (which is OK, we realize some things are worth extra time/effort), try to 
 provide as detailed direction as you can, as early as possible. For example if you have a clear vision for what the design
 of a page should be, sharing that as early as possible will help limit the amount of time the team has to put in.
 
@@ -96,7 +96,7 @@ product that has a chance to be successful.
 ### Social media/marketing and operations and fundraising support
 
 We'll provide a some support intrinsicly. However, we can provide some
-paid services for non-development/design work too if you're severly lacking.
+paid services for non-development/design work too if you're severly lacking. 
 
 ## Do you have traction?
 
