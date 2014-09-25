@@ -1,36 +1,84 @@
 # DIFFERENTIAL DEV SHOP CLIENT GUIDE
 
-## What happens after I say "yes" to Differential?
+*Below is our client guide. It describes some commonly asked questions and pitfalls
+of software development and how we work to mitigate them. We have developed a process
+called the "4D Development Process" to guide us through and have found great success with it*
+
+## (DISCOVERY) Becoming our client
+
+*The DISCOVERY phase is to understand and analyze the core problem you want to solve,
+understanding what assumptions you're making, while brainstorming a variety of
+potential solutions. We want to know why you're building this, and want makes you unique.*
+
+### How do I get in touch?
+
+We love email! Send us an email at hello@differential.io with a brief
+description of your project and how you see us working with you.
+
+### Understanding the project
+
+TODO
+
+### Receiving an estimate
+
+TODO
+
+### How much do you cost?
+
+TODO
+
+### How long does it take?
+
+TODO
+
+### What do I get?
+
+TODO
+
+## (DEFINE) What happens after I say "yes" to Differential?
+
+*The DEFINE phase is to narrow down the best solution, defining the project
+scope and features, and then assign appropriate team members and resources.*
 
 ### You might have to wait a little
 
-We're pretty awesome at what we do, so it might take us some time to
-get your work into our schedule. We keep a very close eye on that schedule and strive to be extremely transparent with you. So yeah, it sucks to have to
-wait, but it'll be worth it :)
+TODO
+
+### We schedule a kickoff meeting
+
+TODO
+
+### We define and redefine what we are going to build first
+
+TODO - highest technical risks, wireframes and branding
+
+### We schedule a start date
+
+TODO
+
+## (DEVELOP) What happens when the work begins?
+
+*The DEVELOP phase is where we'll begin implementing code through sprints,
+prioritizing features with our riskiest technical challenges first.*
 
 ### Who will do the work
 
-There will be a single partner who is designated as your primary point of contact. The partners of Differential (employee-owners) drive all strategy and vision. To actually execute the work, we do a lot of it locally, but depending on work volume we also tap into development resources elsewhere in the U.S. and internationally. Rest assured that all the big decisions are made by the partners in Cincinnati, they will drive the vision for each user story, and we stand behind the work of our remote contributors.
+TODO - In the definition phase we learned enough about what we are building to define
+the correct resources for the work. You will have one main project contact who will act
+as your product manager. They will help coach you through the progress that is being made,
+they will stay on top of the budget and will let you know how changes you are suggesting
+will affect the duration and overall cost of the project. The product manager will also be
+responsible for modulating the correct resources in and out of your project.
 
 ### We'll iterate with working software
 
-Building a MVP for a new product is a project with an "abundance" of
-uncertainty. Some people try to mitigate that by doing a lot of
-planning, writing a big spec document, talking, talking, talking...
-Billing, billing, billing. We take a different approach.
-
-We'll spend a tiny amount of time up-front building a queue of user stories (tasks based on the overall experience), and
-choosing a batch to start on that if we delivered working software,
-users could receive value by using it.
-
-Then we will get working software in you and your users hands ASAP, and
-deploy updates continuously.
+TODO - briefly describe how we incorporate agile development
 
 ### How you stay involved
 
-We LOVE clients who are super involved, not just up front, but throughout a project. In order to facilitate this,
-we use project tracking software (often times Trello), which allows our founders to stay very involved without bogging
-down our developers in email.
+We value transparency of in our relationship so we use, share, and communicate through
+a project tracking software (often times Trello), which allows you to stay very involved
+without losing important information in email.
 
 Here's how we suggest you staying involved (and what we've seen work best):
 
@@ -43,75 +91,65 @@ Here's how we suggest you staying involved (and what we've seen work best):
 calls, when possible.
 
 2. Keep in mind that what might seem like "small changes" can end up taking hours. For example, something we see with
-many founders we work with is the tendency to want to continually tweak the homepage (based on gut feel, not user
+many clients we work with is the tendency to want to continually tweak the homepage (based on gut feel, not user
 feedback), even before the meat & potatoes are built.
-
-   In general, we recommend you keep the 80/20 rule in mind. It's pretty rare to nail things out of the gate, anyhow,
-and it's also hard to tell how much additional impact many early changes might have in helping us validate the concept.
-Err on the side of getting things pretty good & letting users dictate how we improve from there.
 
 3. When you do have strong opinions about stuff (which is OK, we realize some things are worth extra time/effort), try to
 provide as detailed direction as you can, as early as possible. For example if you have a clear vision for what the design
 of a page should be, sharing that as early as possible will help limit the amount of time the team has to put in.
 
-### Setting up source control, hosting, analytics, etc.
+### Setting up source control, hosting, analytics.
 
-Once you're our client, we'll care about your business forever.
+We will handle setting up source control (Github), hosting (Modulus), and basic analytics (Google Analytics)
+for all of our clients as a standard practice.
 
-But we might not be your developer beyond the earliest days. We are
-believers that once we uncover a market + product that people will pay
-you for, it makes sense to recruit a team.
+## (DEBUG) What happens after launch?
 
-So we set everything up so it's easy for you to bring your new team
-members into the project, and eventually removing us from those services
-without having to incur a painful services switchover process.
-
-## What happens after the MVP launches?
+*The DEBUG phase is everything after the planned features are designed and implemented.
+we'll begin testing with real users, iterating on feedback, suggestions and bug reports.*
 
 ### Disappointment (bet you weren't expecting us to say that!)
 
-We're a fan of [Pirate
-Metrics](http://www.youtube.com/watch?v=irjgfW0BIrw).
+TODO - Since we are constantly working with working software, there isn't a magic switch and
+feeling of the lights turning on for the first time when we "go live". Software launches
+aren't big parties anymore, and an inrush of users isn't to be expected.
+You (and us) have spent many hours, blood, sweat, and tears making a great product. We should
+all be proud of that.
 
-* Acquisition - how many users sign up
-* Activation - how many users do enough intial activity to get value
-  from your app
-* Retention - do they come back? (you're app is going to suck at this at
-  first. Everyone's does.)
-* Referral - do they tell others (nope, not at first.)
-* Revenue - how much money are you generating (this will be close to
-  zero for some time, unfortunately.)
+### Bugs Will Surface
 
-So you launch. More likely than not, most of the numbers above are zero (or close to zero). Now we iterate to fix this.
+TODO - even the most astute quality assurance processes can't find all the issues with software
+until real users start using your product. That is why we maintain 20% of the budget
+in a "shared account" so that we can prioritize post-launch activities.
 
-### Concierge your first paid users
 
-You'll need to go out, identify some people who will pay you for a
-concierge service using your product. These users will be the best
-source of learning for all 5 of the pirate metrics.
+### Users Will Have Feature Requests (that you want to implement)
 
-This is all you — super, super important though, if you want to build a
-product that has a chance to be successful.
+TODO - Since we all work on the web these days, everyone and their brother has thoughts about
+what software should do. Some of these ideas are great, and some are terrible. The best thing
+to do is to set a timeframe (we recommend two weeks) before any new features are added to the queue.
+That way, decisions are made with a clear mind and data vs. emotion.
 
-### Social media/marketing and operations and fundraising support
+### Software Will Need Ongoing Support
 
-We'll provide a some support intrinsicly. However, we can provide some
-paid services for non-development/design work too if you're severly lacking.
+TODO - Software is never done. There is always something to work on and improve. Expect that
+there will be a list of things to work on after the project is complete. New bugs will be
+introduced when new technology (new screen sizes, new browsers, new operating systems, etc)
+are implemented so at a minimum there is some amount of work to keep the current functionality
+operational.
 
-## Do you have traction?
+## (THE END) How does our relationship end?
 
-Traction is tricky. Getting more visits to your site is nice, but
-doesn't pay bills. And generating a dollar of revenue that costs you
-$1.60 is not very cool either.
+*there are a few reasons why our relationship will end, and we like to plan for it in advance*
 
-It's all a big guess, until you actually have a profitable business,
-whether you will ultimately get there.
+### Bringing on a new developer
+TODO - while we would love to be your long term development partner, sometimes it's best for you
+to leave the nest and bring on an internal developer. In those sec
 
-If we sense you're onto something big, we'll want to stay very involved,
-help with phase 2, try to get some equity in your venture in exchange
-for discounted billing rates, etc.
+### Funding has dried up
 
-If we don't love the traction, we might decide to scale down our
-involvement. WE WILL NOT ABANDON YOU, THOUGH. And we'll always be
-friends and will offer advice and support. But we won't do equity deals
-with products we don't believe in.
+TODO - how we give you your code, train your developers on how we structure the app, etc
+
+### You decided to shut the project down
+
+TODO - how we eliminate or minimize ongoing cost, explain the risks of "stalled" software development
