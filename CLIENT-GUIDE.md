@@ -17,23 +17,71 @@ description of your project and how you see us working with you.
 
 ### Understanding the project
 
-TODO
+After we have read you're email, we will setup a time to talk with you. We will want to
+find out why you are building what you're building, what makes it (and you) special,
+why you think we are the right fit, and anything else that you feel is important.
+
+### Wait, before I tell you my idea, would you please sign my NDA
+
+While we appreciate the intent of signing an NDA (and we take confidentiality very seriously),
+we do not sign NDA's. Here is a blog post describing why we think [you don't need an NDA]( http://differential.io/blog/why-you-dont-need-an-nda).
+
+We do take confidentiality seriously and have language protecting you in our
+MSA (Master Services Agreement) along with the fact that we are not in the business of
+stealing ideas. If we were, we wouldn't be in business long.
+
+The main reasons we don't sign NDA's before we hear an idea:
+* We talk with entrepreneurs everyday and hear 1,000s of ideas a year
+* Maintaining organization and clarity of whose ideas are what is a legal
+and liability nightmare for our business (especially since you might not end up
+being a customer)
+
+How we can discuss your idea without an NDA
+* Don't tell us anything that you consider "secret sauce" or don't feel comfortable sharing
+* That's it
+
+### Decision to move forward
+
+After our discussion about your project and learning more about you, both you and us, will
+make the decision on whether or not we should move forward with an estimate.
 
 ### Receiving an estimate
 
-TODO
+Now that we have a good understanding of what you want to build, we will write a short (one to two page)
+document describing how we understand your product, feature set desired, and the proposed billing arrangement.
 
-### How much do you cost?
+Sometimes ideas are too vague or too large in scope to be defined by a project price in which case
+we have a couple options:
 
-TODO
+* We can (and often do) work in monthly employee units and work against a top priorities list
+* We can define a smaller feature set that can be defined by a project price and we will propose we start with that scope
+
+### How much does software cost?
+
+How much does building a custom house cost? It greatly depends on what you want
+and how important the details are to the overall work (are you building a barn or a luxury mansion).
+
+Our projects range from 5 page marketing sites to fully
+developed 3D infused responsive applications. So somewhere between $x,xxx and $xxx,xxx.
+Our sweet spot (entrepreneurs building out their first early version of their product) have
+budgets in the mid 5 figures.
 
 ### How long does it take?
 
-TODO
+Most of our MVP applications take about 8 to 10 weeks to deliver functional,
+working software but is greatly dependent on the project and how many changes
+happen over the duration of the project.
 
 ### What do I get?
 
-TODO
+We will act as your software development partner. That means we will act like your product is
+our product. We will make arguments for some features we should have and for features that we
+should not build. We are building the functioning product and make sure that product is placed
+in an environment where it can grow and handle all the traffic it's supposed to handle.
+
+We use source control (github) so that all of your is saved and if mistakes are made, we can
+erase them quickly. While you are our partner, you will have access to our startup network
+(including investors, advisors, developers, and industry experts).
 
 ## (DEFINE) What happens after I say "yes" to Differential?
 
@@ -42,19 +90,29 @@ scope and features, and then assign appropriate team members and resources.*
 
 ### You might have to wait a little
 
-TODO
+We are perpetually busy (which is great because it means we have projects to work on
+that we care about) but it can mean that we won't be able to start your project right away.
+Typically, we are able to have a kickoff meeting within the next two weeks of a signed agreement.
+
+### We define and redefine what should be built first
+
+Based on our estimate, our team will create a Trello board with our version of the priority list
+of items to work on. These will be the highest technical risk areas (and our approach to understand them).
+We will also create a list of items that we will need from you before we can begin the work. Some of the
+items will include branding elements (like logos and colors) but will also have items like copy for the pages
+on the list. We will share this list at the kickoff meeting
 
 ### We schedule a kickoff meeting
 
-TODO
-
-### We define and redefine what we are going to build first
-
-TODO - highest technical risks, wireframes and branding
+A kickoff meeting is our turn to discuss our plan with you and get your feedback on what should
+be priority. We will walk you through our project tracking tool (and your role in it). We will
+walk through what information we are still waiting on from you and make sure we are on the
+same page.
 
 ### We schedule a start date
 
-TODO
+Within two weeks (sometimes the day after) of the kickoff meeting, we will begin work. The
+start date allows you to know when you should start expecting updates and start seeing results.
 
 ## (DEVELOP) What happens when the work begins?
 
@@ -63,7 +121,7 @@ prioritizing features with our riskiest technical challenges first.*
 
 ### Who will do the work
 
-TODO - In the definition phase we learned enough about what we are building to define
+In the DEFINITION phase we learned enough about what we are building to define
 the correct resources for the work. You will have one main project contact who will act
 as your product manager. They will help coach you through the progress that is being made,
 they will stay on top of the budget and will let you know how changes you are suggesting
@@ -72,7 +130,13 @@ responsible for modulating the correct resources in and out of your project.
 
 ### We'll iterate with working software
 
-TODO - briefly describe how we incorporate agile development
+Within the first few days we will have an software deployed to a server that you can see.
+You will be able to see progress and updates made every couple days.
+
+Along with the live code, you will be able to follow along (and input into) our project tracking
+software (typically Trello) where you can see first hand at what is currently under development.
+
+Your input will be vital in prioritizing the feature set throughout the project.
 
 ### How you stay involved
 
@@ -110,29 +174,29 @@ we'll begin testing with real users, iterating on feedback, suggestions and bug 
 
 ### Disappointment (bet you weren't expecting us to say that!)
 
-TODO - Since we are constantly working with working software, there isn't a magic switch and
+Since we are constantly working with working software, there isn't a magic switch and
 feeling of the lights turning on for the first time when we "go live". Software launches
 aren't big parties anymore, and an inrush of users isn't to be expected.
 You (and us) have spent many hours, blood, sweat, and tears making a great product. We should
-all be proud of that.
+all be proud of that. The hard work just begins once we start having real users of the product.
 
 ### Bugs Will Surface
 
-TODO - even the most astute quality assurance processes can't find all the issues with software
+Even the most astute quality assurance processes can't find all the issues with software
 until real users start using your product. That is why we maintain 20% of the budget
-in a "shared account" so that we can prioritize post-launch activities.
-
+in a "shared account" so that we can prioritize post-launch activities. If we are working on
+a monthly billing plan, plan accordingly to have a budget for post-launch.
 
 ### Users Will Have Feature Requests (that you want to implement)
 
-TODO - Since we all work on the web these days, everyone and their brother has thoughts about
+Since we all work on the web these days, everyone and their brother has thoughts about
 what software should do. Some of these ideas are great, and some are terrible. The best thing
 to do is to set a timeframe (we recommend two weeks) before any new features are added to the queue.
 That way, decisions are made with a clear mind and data vs. emotion.
 
 ### Software Will Need Ongoing Support
 
-TODO - Software is never done. There is always something to work on and improve. Expect that
+Software is never done. There is always something to work on and improve. Expect that
 there will be a list of things to work on after the project is complete. New bugs will be
 introduced when new technology (new screen sizes, new browsers, new operating systems, etc)
 are implemented so at a minimum there is some amount of work to keep the current functionality
@@ -142,14 +206,32 @@ operational.
 
 *there are a few reasons why our relationship will end, and we like to plan for it in advance*
 
-### Bringing on a new developer
-TODO - while we would love to be your long term development partner, sometimes it's best for you
-to leave the nest and bring on an internal developer. In those sec
-
 ### Funding has dried up
 
-TODO - how we give you your code, train your developers on how we structure the app, etc
+Too often we are working with entrepreneurs on an MVP with the goal of acquiring additional
+capital from investors where the investors get cold feet. That's ok. Most of our team have
+been through that personally. When it does happen, let's have an honest conversation, and
+make a plan to leave the code in a spot where it can be picked up again with minimal restart effort
+when funding is available.
 
 ### You decided to shut the project down
 
-TODO - how we eliminate or minimize ongoing cost, explain the risks of "stalled" software development
+After months of missed user acquisition goals, some clients make the decision to shut down the project.
+Let us know and we will be able to turn off all charged services so you won't incur additional costs.
+
+### Bringing on a new developer
+
+While we would love to be your long term development partner, sometimes it makes sense to
+bring someone in house. We are honest in that we are not going to be your cheapest long term option.
+It is important that we know in advance that a change will be occurring so that we can make
+sure that documentation is in order for the new developer to take over.
+
+## (OTHER)
+
+### What some of our existing clients had to say
+
+We love our clients and apparently our clients love us too. Our past and existing
+clients have been our best advocates. Please ask us if you would like references.
+
+*A special thanks goes out to Adam Lisagor of [Sandwich Video](http://sandwichvideo.com)
+for inspiring this client guide*
