@@ -2,7 +2,7 @@
 
 *This document describes common questions and pitfalls
 of software development, and how we work to mitigate them. We have developed a process
-called the "4D Development Process" to guide us through and have found great success with it*
+called the "4D Development Process" to guide us through and have found great success with it.*
 
 ## (DISCOVERY) Becoming our client
 
