@@ -1,6 +1,6 @@
 # DIFFERENTIAL DEV SHOP CLIENT GUIDE
 
-*Below is our client guide. It describes common questions and pitfalls
+*This document describes common questions and pitfalls
 of software development, and how we work to mitigate them. We have developed a process
 called the "4D Development Process" to guide us through and have found great success with it*
 
