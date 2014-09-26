@@ -36,12 +36,14 @@ being a customer)
 
 How we can discuss your idea without an NDA:
 * Don't tell us anything that you consider "secret sauce" or don't feel comfortable sharing
-* That's it
+* Because we see a lot of ideas, we can probably get a pretty good grasp without a ton of detail
+
+There are exceptions to every rule, and we do realize that some of our corporate innovation clients, with 100+ person legal teams, may not have a choice. 
 
 ### Decision to move forward
 
-After our discussion about your project and learning more about you, we will 
-make a decision on moving forward with an estimate together.
+After better understand your project and learning more about you and your goals, we will 
+work to put together an estimate for you.
 
 ### Receiving an estimate
 
@@ -55,7 +57,7 @@ document describing:
 Sometimes ideas are too vague or too large in scope for us to set project price. In this case,
 we have options:
 
-* We can (and often do) work in monthly employee units and work against a top priorities list
+* We can (and often do) work in phases using blocks of hours working against a top priorities list
 * We can choose a subset of the full feature list
 
 ### How much does software cost?
