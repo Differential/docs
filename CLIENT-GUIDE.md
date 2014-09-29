@@ -23,16 +23,14 @@ why you think we are the right fit, and anything else that you feel is important
 
 ### Wait, before I tell you my idea, would you please sign my NDA
 
-While we appreciate the intent of signing an NDA (and we take confidentiality seriously),
-we do not sign NDA's. Here is a blog post describing why we think [you don't need an NDA]( http://differential.io/blog/why-you-dont-need-an-nda). We have language protecting you in our
-MSA (Master Services Agreement), along with the fact that we are not in the business of
-stealing ideas. If we were, we wouldn't be in business long.
-
-The main reasons we don't sign NDA's before we hear an idea:
+While we appreciate the intent of signing an NDA (and we take confidentiality seriously), we do not sign NDA's. Differential is not in the business of stealing ideas. If we were, we wouldn't be in business long. The main reasons we don't sign NDA's before we hear an idea:
 * We talk with entrepreneurs everyday and hear 1,000s of ideas a year
 * Maintaining organization and clarity of whose ideas are what is a legal
 and liability nightmare for our business (especially since you might not end up
-being a customer)
+being a customer) and signing NDAs limits us from courting other potential business.
+* We believe that NDAs are counter to successfully lean startups. Here is a blog post describing why we think [you don't need an NDA]( http://differential.io/blog/why-you-dont-need-an-nda). 
+
+We have language protecting you in our MSA (Master Services Agreement) should we get that far. 
 
 How we can discuss your idea without an NDA:
 * Don't tell us anything that you consider "secret sauce" or don't feel comfortable sharing
@@ -231,7 +229,7 @@ Let us know and we will be able to turn off all charged services so you won't in
 While we would love to be your long term development partner, sometimes it makes sense to
 bring someone in house. We are honest in that we are not going to be your cheapest long term option.
 It is important that we know in advance that a change will be occurring so that we can make
-sure that documentation is in order for the new developer to take over.
+sure that documentation is in order for the new developer to take over. As part of our services, we can help vet potential candidates.
 
 ## (OTHER)
 
