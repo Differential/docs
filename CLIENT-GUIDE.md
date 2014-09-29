@@ -24,11 +24,9 @@ why you think we are the right fit, and anything else that you feel is important
 ### Wait, before I tell you my idea, would you please sign my NDA
 
 While we appreciate the intent of signing an NDA (and we take confidentiality seriously), we do not sign NDA's. Differential is not in the business of stealing ideas. If we were, we wouldn't be in business long. The main reasons we don't sign NDA's before we hear an idea:
-* We talk with entrepreneurs everyday and hear 1,000s of ideas a year
-* Maintaining organization and clarity of whose ideas are what is a legal
-and liability nightmare for our business (especially since you might not end up
+* We talk with entrepreneurs everyday and hear 1,000s of ideas a year. Maintaining organization and clarity of whose ideas are what is a legal and liability nightmare for our business (especially since you might not end up
 being a customer) and signing NDAs limits us from courting other potential business.
-* We believe that NDAs are counter to successfully lean startups. Here is a blog post describing why we think [you don't need an NDA]( http://differential.io/blog/why-you-dont-need-an-nda). 
+* Equally important, we believe that NDAs are counter to successfully lean startups. Here is a blog post describing why we think [you don't need an NDA]( http://differential.io/blog/why-you-dont-need-an-nda). 
 
 We have language protecting you in our MSA (Master Services Agreement) should we get that far. 
 
